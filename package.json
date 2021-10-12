@@ -1,0 +1,19 @@
+{
+  "name": "@iampetrovpavel/time",
+  "version": "1.0.0",
+  "description": "",
+  "main": "time.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iampetrovpavel/time.git"
+  },
+  "author": "Petrov Pavel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iampetrovpavel/time/issues"
+  },
+  "homepage": "https://github.com/iampetrovpavel/time#readme"
+}
